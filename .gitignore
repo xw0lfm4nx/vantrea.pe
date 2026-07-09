@@ -1,0 +1,11 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas que no necesitan versionarse
+node_modules/
+VantreaCustomers/
+
+# Archivos temporales
+*.tmp
+*.log
